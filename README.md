@@ -8,6 +8,7 @@
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][webdevplaylist1]
 [<img align="left" alt="Github" width="26px" src="https://icon-library.com/images/github_png63.png" />][webdevplaylist2]
 [<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />][webdevplaylist3]
+[<img align="left" alt="PyCharm" width="26px" src="https://code.visualstudio.com/assets/branding/app-icon.png" />][webdevplaylist4]
 <br />
 <br />
 
@@ -15,5 +16,6 @@
 [webdevplaylist1]: https://www.python.org/
 [webdevplaylist2]: https://github.com/
 [webdevplaylist3]: https://www.jetbrains.com/pycharm/
+[webdevplaylist4]: https://code.visualstudio.com/
 [cssplaylist]: https://twitter.com/shurui7_
 ### i use arch btw :D

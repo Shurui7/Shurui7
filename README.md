@@ -22,7 +22,7 @@ I am a self-taught developper 👨‍💻
 [webdevplaylist4]: https://code.visualstudio.com/
 
 ## My Stats 🚀
-![Shurui's github stats](https://github-readme-stats.vercel.app/api?username=Shurui7&show_icons=true&theme=tokyonight)
+![Shurui's github stats](https://readmestats.999857.xyz/api?username=Shurui7&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shurui7&theme=tokyonight" alt="mystreak"/>
-![Shurui's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shurui7&theme=tokyonight&layout=compact)
+![Shurui's Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=Shurui7&theme=tokyonight&layout=compact)
 

@@ -1,6 +1,4 @@
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Shurui7&show_icons=true&count_private=true&theme=dark)](https://github.com/Shurui7)
-
 ### Hi there, I'm Shurui! 👋
 #### I am a self-taught developper 👨‍💻
 ### Tools that I use:
